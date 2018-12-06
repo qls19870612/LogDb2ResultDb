@@ -1,0 +1,9 @@
+result_db_url=127.0.0.1:3306/
+result_db_user=root
+result_db_passwd=wjssqlmm
+
+
+log_db_url=127.0.0.1:3306/
+log_db_user=root
+log_db_passwd=wjssqlmm
+
